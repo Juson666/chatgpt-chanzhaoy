@@ -76,8 +76,8 @@ export default {
   },
   store: {
     siderButton: 'Prompt Store',
-    local: 'Download Online',
-    online: 'Online',
+    local: 'Prompt Thesaurus',
+    online: 'Download Online',
     title: 'Title',
     description: 'Description',
     clearStoreConfirm: 'Whether to clear the data?',
