@@ -76,7 +76,7 @@ export default {
   },
   store: {
     siderButton: 'Prompt Store',
-    local: 'Local',
+    local: 'Download Online',
     online: 'Online',
     title: 'Title',
     description: 'Description',
